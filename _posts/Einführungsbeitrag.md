@@ -1,4 +1,3 @@
----
 Einführungsbeitrag
 ---
 
