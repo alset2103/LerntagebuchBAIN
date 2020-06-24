@@ -5,7 +5,7 @@ Am Freitag, 13.03.2020, fand das Modul "BAIN" aka "Bibliotheks- und Archivinform
 
 Aber lassen wir Mal den Virus auch in Ruhe (dann lässt er uns hoffentlich auch in Frieden) und kehren wir zurück zum Unterricht.
 
-Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach und nach abspielen zu lassen, verwendet er ein Tool von GWDG, auf dem er Dokumente online erstellen und veröffentlichen kann. Diese können von uns, Studierenden, nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind.
+Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach und nach abspielen zu lassen, verwendet er eine Software "CodiMD", auf der er Dokumente online erstellen und veröffentlichen kann. Diese können von uns, Studierenden, nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind.
 
 Nun, angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters sein, da man sich einfach zurücklehnen kann und nur zuhören muss, was auf einen bald zukommt. Wir können uns richtig freuen, da es in BAIN keine Prüfung geben wird. Benotet werden nur die Lerntagebuch-Einträge. Darin soll man beschreiben, was man in der letzten Vorlesung alles gelernt hat und zusätzlich können noch persönliche Gedanken und Kritik geäussert werden.
 
