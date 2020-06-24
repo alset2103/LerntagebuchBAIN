@@ -12,7 +12,7 @@ Inhalt des Tagebuchs
 4. [Lerneinheit N°3](_posts/Lerneinheit3.md)
 5. [Lerneinheit N°4](_posts/Lerneinheit4.md)
 6. [Lerneinheit N°5](_posts/Lerneinheit5.md)
+7. [Abschlussbeitrag] ()
 
 Viel Spass beim Durchstöbern!
 Liebe Grüsse, Alicja
-
