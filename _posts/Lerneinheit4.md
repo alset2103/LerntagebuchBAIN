@@ -45,6 +45,6 @@ Nach einem kleinen Marktüberblick über die Discovery-Systeme beendeten wir auc
 
 Quellen:
 - BIGDATA INSIDER. (27.06.2018). "Was ist SolR?". Abgerufen am 24.06.2020 von https://www.bigdata-insider.de/was-ist-solr-a-728279/. 
-- Lohmeier, F. (2020). "BAIN FS2020 Tag 4 (05.06.2020)". Abgerufen am 24.06.2020 von https://pad.gwdg.de/Du0dWZ7mRimLa-RV6KPmhQ?both. 
-- Library Carpentry. (o.J.). "Library Carpentry: OpenRefine - Introduction to OpenRefine.". Abgerufen am 24.06.2020 von https://librarycarpentry.org/lc-open-refine/01-introduction/index.html. 
 - Library Carpentry. (o.J.). "Library Carpentry: MarcEdit - Introduction to MarcEdit". Abgerufen am 24.06.2020 von https://librarycarpentry.org/lc-marcedit/01-introduction/index.html. 
+- Library Carpentry. (o.J.). "Library Carpentry: OpenRefine - Introduction to OpenRefine.". Abgerufen am 24.06.2020 von https://librarycarpentry.org/lc-open-refine/01-introduction/index.html. 
+- Lohmeier, F. (2020). "BAIN FS2020 Tag 4 (05.06.2020)". Abgerufen am 24.06.2020 von https://pad.gwdg.de/Du0dWZ7mRimLa-RV6KPmhQ?both. 
