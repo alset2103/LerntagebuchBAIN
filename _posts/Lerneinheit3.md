@@ -26,6 +26,8 @@ Der nächste wichtige Punkt war die Arbeit mit ArchivesSpaces. Zuerst musste das
 
 Das zweite System, das wir testen durften, war DSpace. Dieses ist ein System für Publizierung von Forschungsdaten und anderen Publikationen. Das erste Ziel für uns war die Erstellung einer Collection und später einer Community. Collections beinhalten üblicherweise nur Objekte, wie Dokumente oder andere Schriften; Communities organisieren die verschiedenen Collections. Im Vergleich zur ersten Aufgabe war diese überhaupt nicht kompliziert. Die Erstellung einer Collection war sehr einfach und brauchte keine kniffligen Angaben, sondern wesentlich nur einen Namen und eine kurze Beschreibung. Auch die Erstellung und Verküpfung einer Community verlief ebenfalls schnell, sowie der Vergabe von speziellen Rechten an andere.
 
+Eigentlich hätten wir noch eine andere Aufgaben machen sollen, doch zu dieser sind wir aus Zeitgründen nicht mehr gekommen. Stattdessen hat Herr Lohmeier rasch vorgeführt, wie man diese in etwa lösen müsste. Das Ziel der Aufgabe war die Einreichung eines Dokuments für die Collection, danach sollte man den Begutachtungsprozess starten und das ganze frei geben. Auch haben wurde der Import und Export ganz kurz angesprochen. 
+
 Im Vergleich zu den beiden anderen bisherigen Vorlesungen fand ich diese heute besonders angenehm. Das liegt bestimmt daran, dass unsere Klasse kleiner war und wir die Inhalte + die dazugehörigen Fragen/Probleme besser durchgehen konnten. Wieder was neues dazu gelernt? Aber klaro. Dann bis bald :)
 
 Quellen: 
