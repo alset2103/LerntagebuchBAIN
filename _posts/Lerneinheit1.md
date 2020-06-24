@@ -43,5 +43,5 @@ Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obige
 Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich grosse Mühe in diesem Fach haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in BAIN noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren.
 
 Quellen:
+- linux-praxis.de. (o.J.). "Wichtige Unix-Befehle". Abgerufen am 24.06.2020 von http://www.linux-praxis.de/linux1/befehle2.html.
 - Lohmeier, F. (2020). "BAIN FS2020 Tag 1 (13.03.2020)". Abgerufen am 24.06.2020 von https://pad.gwdg.de/Zi-mp8FEQXKV22eL6qUUWg?view. 
-- linux-praxis.de. (o.J.). "Wichtige Unix-Befehle". Abgerufen am 24.06.2020 von http://www.linux-praxis.de/linux1/befehle2.html. 
