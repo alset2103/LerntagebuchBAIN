@@ -35,4 +35,4 @@ Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn 
 
 Quellen:
 - Lohmeier, F. (2020). "BAIN FS2020 Tag 1 (13.03.2020)". Abgerufen am 24.06.2020 von https://pad.gwdg.de/Zi-mp8FEQXKV22eL6qUUWg?view. 
-- (o.J.). "Wichtige Unix-Befehle". Abgerufen am 24.06.2020 von http://www.linux-praxis.de/linux1/befehle2.html. 
+- linux-praxis.de. (o.J.). "Wichtige Unix-Befehle". Abgerufen am 24.06.2020 von http://www.linux-praxis.de/linux1/befehle2.html. 
