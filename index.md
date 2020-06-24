@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch BAIN von Alicja 
 ---
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Ich wünsche viel Spass beim Durchstöbern, Alicja :)
