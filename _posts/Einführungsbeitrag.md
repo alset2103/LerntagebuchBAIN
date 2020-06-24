@@ -1,5 +1,5 @@
 ---
-##Einführungsbeitrag
+Einführungsbeitrag
 ---
 
 Meine Klasse ist bereits im vierten Semester des Bachelor Studiums Information Science und so wird es nun Zeit, um sich einen Überblick über die informatischen Systeme, die in Bibliotheken oder Archiven verwendet werden, zu verschaffen. Deshalb findet auch das Modul BAIN (aka Bibliotheks- und Archivinformatik) statt. 
