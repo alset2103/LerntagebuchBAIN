@@ -1,13 +1,13 @@
 Lerneinheit 1
 ---
 
-Am Freitag, 13.03.2020, fanden die ersten beiden Blöcke des Fachs "BAIN" aka "Bibliotheks- und Archivinformatik" statt. Grundsätzlich wäre es ein schöner, leicht sonniger Tag in Zürich gewesen, nur hat uns das Coronavirus die Laune verdorben. An diesem Tag wurde nämlich verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die FHGR vorerst geschlossen werden. Für die, die gerne zu Hause sitzen, ist es eher etwas positives, aber ich habs jetzt schon satt, von zu Hause aus ALLES lernen zu müssen.
+Am Freitag, 13.03.2020, fand das Modul "BAIN" aka "Bibliotheks- und Archivinformatik" zum ersten Mal statt. Grundsätzlich wäre es ein schöner, leicht sonniger Tag in Zürich gewesen, nur hat uns das Coronavirus die Laune verdorben. An diesem Tag wurde nämlich verkündet, dass aufgrund des Virus alle Fachhochschulen und so auch die Fachhochschule Graubünden vorerst geschlossen werden. Für die, die gerne zu Hause bleiben, ist es eher etwas positives, aber ich habe jetzt schon keine grosse Lust darauf, von zu Hause aus ALLES lernen zu müssen.
 
 Aber lassen wir Mal den Virus auch in Ruhe (dann lässt er uns hoffentlich auch in Frieden) und kehren wir zurück zum Unterricht.
 
 Zuerst möchte ich kurz vom Tool erzählen, das unser Dozent, Herr Lohmeier, zur Vermittlung des Stoffes verwendet. Anstatt wie gewöhnlich PPP-Folien vorzubereiten und diese nach und nach abspielen zu lassen, verwendet er ein Tool von GWDG, auf dem er Dokumente online erstellen und veröffentlichen kann. Diese können von uns, Studierenden, nicht nur eingesehen, aber auch bearbeitet werden. Es ist eine super Alternative zu den gewohnten Methoden, da die Inhalte gut strukturiert sind.
 
-Nun, angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters sein, da man sich einfach zurücklehnen kann und nur zuhören muss, was auf einen bald zukommt. Wir können uns richtig freuen, da es in BAIN keine Prüfung geben wird! Benotet werden nur die Lerntagebuch-Einträge. Darin soll man beschreiben, was man in der letzten Vorlesung alles gelernt hat und zusätzlich können noch persönliche Gedanken und Kritik geäussert werden.
+Nun, angefangen hat der Unterricht mit einer organisatorischen Einführung. Dies mag eigentlich der beste Zeitpunkt während des ganzen Semesters sein, da man sich einfach zurücklehnen kann und nur zuhören muss, was auf einen bald zukommt. Wir können uns richtig freuen, da es in BAIN keine Prüfung geben wird. Benotet werden nur die Lerntagebuch-Einträge. Darin soll man beschreiben, was man in der letzten Vorlesung alles gelernt hat und zusätzlich können noch persönliche Gedanken und Kritik geäussert werden.
 
 Kommen wir mal zum etwas wichtigerem Teil der Vorlesung: Unsere Arbeitsumgebung wird künftig ein Linux-Betriebssystem sein, das dank einer virtuellen Maschine benutzt werden kann. Diese virtuelle Maschine wird nicht durch eine installierte Software, wie "Oracle VM VirtualBox", betrieben, sondern durch die Cloud-Plattform "Microsoft Azure". Ein grosser Vorteil von dieser Plattform ist, dass man bei der Anmeldung wenige Daten preisgeben muss. Da wir viele verschiedene Bibliotheks- und Archivsysteme anschauen und auch selbst anwenden werden, ist es sinnvoller, diese auf einer virtuellen Maschine durchzutesten. So wird unser Speicherplatz (auf dem Laptop) nicht beansprucht und wir gefährden keinen Absturz unseres Computers. Kurz gesagt: es kann weniger schief gehen!
 
@@ -22,17 +22,17 @@ Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell 
 
 Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf dem OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
 
-"mkdir": make directory; ein Verzeichnis erstellen
-"cd": change direction; man wechselt in ein anderes Verzeichnis
-"mv": move; verschiebt eine Datei in anderes Verzeichnis oder Ändert den Namen einer Datei
-"cp": copy; kopiert eine Datei
-"ls": listing; es werden alle Dateien und Ordner im Verzeichnis angezeigt
-"pwd": print working directory; gibt Namen des aktuellen Verzeichnisses aus
-"rm": remove; entfernt eine Datei oder ein Verzeichnis aus einem anderen Verzeichnis
-Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese könnt ihr unter dem folgenden Link finden: http://www.linux-praxis.de/linux1/befehle2.html
+- "mkdir": make directory; ein Verzeichnis erstellen
+- "cd": change direction; man wechselt in ein anderes Verzeichnis
+- "mv": move; verschiebt eine Datei in anderes Verzeichnis oder Ändert den Namen einer Datei
+- "cp": copy; kopiert eine Datei
+- "ls": listing; es werden alle Dateien und Ordner im Verzeichnis angezeigt
+- "pwd": print working directory; gibt Namen des aktuellen Verzeichnisses aus
+- "rm": remove; entfernt eine Datei oder ein Verzeichnis aus einem anderen Verzeichnis
+Selbstverständlich gibt es noch weitere Befehle bzw. andere Versionen der obigen, die nützlich wären. Diese kann man unter dem folgenden Link finden: http://www.linux-praxis.de/linux1/befehle2.html
 
-Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich grosse Mühe im Fach haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in BAIN noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren.
+Ich bin froh, dass bei der ersten Vorlesung bereits so vieles bekannt war, denn so habe ich weniger das Gefühl, dass ich grosse Mühe in diesem Fach haben werde. Grundsätzlich arbeite ich sehr gerne im informatischen Bereich und bin gespannt was wir in BAIN noch unternehmen werden. Ich denke, das Kennenlernen verschiedener Tools, die Bibliotheken oder Archive benutzen, besonders spannend und auch sehr lehrreich sein wird. Schliesslich werde ich im Sommer ein Praktikum bei einer Bibliothek machen und da wird es besonders von Vorteil sein, wenn ich in ungefähr weiss, wie z.B. Katalogisierungstools in etwa funktionieren.
 
 Quellen:
-
-Lohmeier, F. (2020). Gemeinsames Dokument zum Modul BAIN: Tag 1 (13.03.2020).
+- Lohmeier, F. (2020). "Gemeinsames Dokument zum Modul BAIN: Tag 1 (13.03.2020)". Abgerufen am 24.06.2020 von https://pad.gwdg.de/Zi-mp8FEQXKV22eL6qUUWg?view. 
+- (o.J.). "Wichtige Unix-Befehle". Abgerufen am 24.06.2020 von http://www.linux-praxis.de/linux1/befehle2.html. 
