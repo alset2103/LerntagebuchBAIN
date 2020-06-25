@@ -1,7 +1,7 @@
- Lerneinheit 3
- ---
+Lerneinheit 3
+---
  
- Unsere dritte Lerneinheit fand am 24. April 2020 und hatte das Ziel, uns zwei Systeme zu zeigen: den ArchivesSpaces und DSpace. Grundsätzlich war es eine besondere Vorlesung, da unsere Klasse in zwei Gruppen aufgeteilt wurde. So hatte die eine Hälfte am 24., die andere am 25. April das Modul BAIN. So war es aber um einiges besser, da Herr Lohmeier mehr Zeit hatte, um sich mit den Anliegen einzelner Studierenden bzw. Gruppen auseinanderzusetzen.
+Unsere dritte Lerneinheit fand am 24. April 2020 und hatte das Ziel, uns zwei Systeme zu zeigen: den ArchivesSpaces und DSpace. Grundsätzlich war es eine besondere Vorlesung, da unsere Klasse in zwei Gruppen aufgeteilt wurde. So hatte die eine Hälfte am 24., die andere am 25. April das Modul BAIN. So war es aber um einiges besser, da Herr Lohmeier mehr Zeit hatte, um sich mit den Anliegen einzelner Studierenden bzw. Gruppen auseinanderzusetzen.
  
 #Metadatenstandards Archive:
 
