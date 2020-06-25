@@ -4,7 +4,9 @@ title: Lerntagebuch BAIN von Alicja
 
 ## Willkommen zu meinem Lerntagebuch
 
-Inhalt des Tagebuchs
+Das ist ein Lerntagebuch/Blog zum Modul BAIN, welches im Rahmen des Bachelorstudiengangs "Information Science" an der Fachhochschule Graubünden angeboten wird. 
+
+Inhalt des Lerntagebuchs:
 
 - [Einführungsbeitrag](Einführungsbeitrag.md)
 - [Lerneinheit N°1](Lerneinheit1.md)
