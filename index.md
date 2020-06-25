@@ -6,12 +6,12 @@ title: Lerntagebuch BAIN von Alicja
 
 Inhalt des Tagebuchs
 
-1. [Einführungsartikel](https://github.com/alset2103/LerntagebuchBAIN/edit/master/_posts/Einf%C3%BChrungsbeitrag.md)
+1. [Einführungsartikel](Einführungsartikel.md)
 2. [Lerneinheit N°1](Lerneinheit1.md)
-3. [Lerneinheit N°2](/_posts/Lerneinheit2.md)
-4. [Lerneinheit N°3](/_posts/Lerneinheit3.md)
-5. [Lerneinheit N°4](/_posts/Lerneinheit4.md)
-6. [Lerneinheit N°5](/_posts/Lerneinheit5.md)
+3. [Lerneinheit N°2](Lerneinheit2.md)
+4. [Lerneinheit N°3](Lerneinheit3.md)
+5. [Lerneinheit N°4](Lerneinheit4.md)
+6. [Lerneinheit N°5](Lerneinheit5.md)
 7. [Abschlussbeitrag] ()
 
 Viel Spass beim Durchstöbern!
