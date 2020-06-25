@@ -6,13 +6,13 @@ title: Lerntagebuch BAIN von Alicja
 
 Inhalt des Tagebuchs
 
-- [Einführungsartikel](Einführungsartikel.md)
+- [Einführungsartikel](Einführungsbeitrag.md)
 - [Lerneinheit N°1](Lerneinheit1.md)
 - [Lerneinheit N°2](Lerneinheit2.md)
 - [Lerneinheit N°3](Lerneinheit3.md)
 - [Lerneinheit N°4](Lerneinheit4.md)
 - [Lerneinheit N°5](Lerneinheit5.md)
-- [Abschlussbeitrag] ()
+- [Abschlussbeitrag](Abschlussbeitrag.md)
 
 Viel Spass beim Durchstöbern!
 Liebe Grüsse, Alicja
