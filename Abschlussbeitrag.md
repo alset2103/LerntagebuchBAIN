@@ -1,7 +1,7 @@
 Abschlussbeitrag 
 ---
 
-Nun ist es bereits Ende Juni und somit auch Ende des Semesters FS20. So verabschiedeten wir uns bereits vom Modul BAIN, deshalb sollte ich ein paar abschliessende Worte zu meinen Beiträgen schreiben. 
+Nun ist es bereits Ende Juni und somit auch Ende des Semesters FS20. So verabschiedeten wir uns  vom Modul BAIN, deshalb sollte ich ein paar abschliessende Worte zu meinen Beiträgen schreiben. 
 
 Als wir das Modul anfingen, hatte ich lediglich einige Kenntnisse zur Benutzung der Unix-Shell. Von Bibliotheks- oder Archivsystemen hatte ich soweit keine Ahnung, da ich noch nie in einer solchen Institution gearbeitet habe. Die Arbeit an verschiedenen Systemen wie ArchivesSpaces oder Koha hat mir die Möglichkeit gegeben, einen ersten Einblick in eine komplett andere System-Welt zu bekommen. Wie ich es in einem meiner Beiträge bereits erwähnt habe, werde ich in den Sommerferien (und genau: in zwei Wochen) ein Praktikum bei der Stadtbibliothek Chur machen. Zwar werde ich selbst vermutlich keinen Zugang zu der Katalogisierungssoftware haben, doch einen kleinen Einblick werde ich bestimmt bekommen und dank dem, dass ich bereits einige Bibliothekssysteme kennenlernen durfte, werde ich vermutlich schnell das neue System gut kennenlernen. 
 
