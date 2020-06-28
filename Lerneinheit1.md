@@ -27,7 +27,7 @@ Schritte zur Verwendung der virtuellen Maschine von Microsoft Azure:
 #Benutzung Unix-Shell:
 
 Um das Betriebssystem richtig nutzen zu können, müssen wir mit der Unix-Shell arbeiten, d.h. der Benutzerschnittstelle. Diese führt jegliche Befehle aus, die wir eintippen. Bspw. wenn ich einen Ordner öffnen möchte, um zu sehen, welche Dateien da enthalten sind, brauche ich nur die richtigen Befehle im Terminal zu verwenden.
-Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf dem OS-Betriebssystem. Meine Klasse, die IW18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
+Die Frage ist jetzt nur, wie man die Unix-Shell überhaupt verwendet. Die Befehle werden im Terminal ausgeführt. Ein Terminal ist gleich wie eine PowerShell auf dem Windows- sowie Terminal auf dem OS-Betriebssystem. Meine Klasse, die iw18vz, hatte das Glück, einige der Befehle schon im Fach ARIS kennengelernt zu haben. Deshalb möchte ich auch einige der (meiner Meinung nach) wichtigsten Befehle zeigen:
 
 - "mkdir": make directory; ein Verzeichnis erstellen
 - "cd": change direction; man wechselt in ein anderes Verzeichnis
